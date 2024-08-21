@@ -1,0 +1,14 @@
+.herolist-container {
+    display: grid;
+    grid-template-columns: repeat(3, 200px [col-start]);
+    gap: 6px; 
+  }
+
+  .hero-item {
+    text-align: start;
+   
+  }
+
+  .available-label{
+    font-size: small;
+  }
