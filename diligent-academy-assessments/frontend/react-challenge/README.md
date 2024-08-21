@@ -1,3 +1,6 @@
+Szabó Anita Solution for Frontend
+
+
 # React challenge
 
 Create a React component for listing heroes.

@@ -1,4 +1,8 @@
 # rc-tech-assessment
+Szabó Anita Solution for Frontend
+
+
+
 ARC tech assessment libraries
 Budapest site - Audit, Risk and Compliance pillar.
 
